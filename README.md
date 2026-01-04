@@ -5,7 +5,7 @@ An end-to-end Machine Learning project that predicts customer churn and explains
 This project goes beyond simple churn prediction by focusing on model transparency, business reasoning, and real-world usability through a deployed web application.
 
  🚀 Live Demo
-🔗 Streamlit App: https://<your-app-name>.streamlit.app  
+🔗 Streamlit App: https://pranav25187-customer-churn-prediction-explainable-appapp-aysluj.streamlit.app/
 
 🧠 Problem Statement
 Customer churn is a major challenge for telecom and subscription-based businesses.  
@@ -35,30 +35,27 @@ The objective of this project is to:
 customer_churn_project/
 │
 ├── data/
-│   ├── raw/                 # Original dataset
-│   └── processed/           # Cleaned & transformed data
+│ ├── raw/ # Original dataset
+│ └── processed/ # Cleaned & transformed data
 │
 ├── notebooks/
-│   ├── 01_EDA.ipynb         # Business-driven EDA
-│   └── 02_Model_Training.ipynb
+│ ├── 01_EDA.ipynb # Business-driven EDA
+│ └── 02_Model_Training.ipynb
 │
 ├── app/
-│   └── app.py               # Streamlit application
+│ └── app.py # Streamlit application
 │
 ├── models/
-│   ├── churn_model.pkl      # Trained ML model
-│   ├── scaler.pkl           # Feature scaler
-│   └── label_encoders.pkl   # Encoders for categorical features
+│ ├── churn_model.pkl # Trained ML model
+│ ├── scaler.pkl # Feature scaler
+│ └── label_encoders.pkl # Encoders for categorical features
 │
 ├── screenshots/
-│   ├── app.png              # App UI screenshot
-│   └── shap.png             # SHAP explanation screenshot
+│ ├── app.png # App UI screenshot
+│ └── shap.png # SHAP explanation screenshot
 │
 ├── requirements.txt
 └── README.md
-
-
-
 
 
 📊 Dataset
@@ -159,3 +156,4 @@ streamlit run app/app.py
 Pranav
 Final-year Computer Engineering student
 Aspiring Machine Learning Engineer / Data Scientist
+
