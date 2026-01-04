@@ -130,6 +130,8 @@ The app is designed for **non-technical users**, such as business analysts or cu
 
 <img width="1411" height="945" alt="localhost_8501_ (2)" src="https://github.com/user-attachments/assets/200d2ff4-9c44-444d-9e09-31f616569c7c" />
 
+<img width="1919" height="937" alt="image" src="https://github.com/user-attachments/assets/4dc8072f-ed73-44d5-9ffc-6115aa577d21" />
+
 
 
 ▶️ Run the Project Locally
@@ -156,4 +158,5 @@ streamlit run app/app.py
 Pranav
 Final-year Computer Engineering student
 Aspiring Machine Learning Engineer / Data Scientist
+
 
